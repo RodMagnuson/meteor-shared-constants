@@ -1,0 +1,2 @@
+
+console.log("EXAMPLE_CONSTANT = " + EXAMPLE_CONSTANT);
